@@ -4,6 +4,10 @@
 The goal of this project was to learn object oriented programming in javascript and also get familiar with the [p5js](https://p5js.org/) library 
 
 ## Rect/Rect 
+![rect/rect](rect-rect.png)
 
 ## Circ/Rect
+![rect/circ](rect-circ.png)
+
 ## Circ/Circ
+![circ/circ](circ-circ.png)
