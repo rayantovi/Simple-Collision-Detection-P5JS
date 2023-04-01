@@ -1,1 +1,9 @@
-# Rectangular-Collision-Detection-p5.js-
+# Simple Collision Detection with p5js
+<i><a>https://rayantovi.github.io/Simple-Collision-Detection-P5JS/</a></i>
+
+The goal of this project was to learn object oriented programming in javascript and also get familiar with the [p5js](https://p5js.org/) library 
+
+## Rect/Rect 
+
+## Circ/Rect
+## Circ/Circ
