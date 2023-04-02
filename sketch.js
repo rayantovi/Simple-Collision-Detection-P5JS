@@ -7,11 +7,8 @@ let centy = height / 2;
 let bgc = 12;
 let ls = centx / 2;
 let rs = centx * 1.5;
-let side = -1;
-let clicks = [1, 1];
 let rect1, rect2, circ1, circ2;
-let distance;
-let s, distX, distY, testX, testY;
+let testX, testY, distance;
 class Shape {
   constructor(x = centx, y = centy, w = 100, h = 100, c = color(255)) {
     this.x = x;
